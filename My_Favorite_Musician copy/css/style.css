@@ -1,0 +1,45 @@
+h1{
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: bold;
+    font-size: 72px;
+}
+
+li{
+    color: orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+html{
+    background-color: black;
+}
+
+p{
+    color: coral;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+}
+
+body{
+    background-image: url(https://miro.medium.com/max/1200/1*-9K0f4TwYrd7zpwPeYIztg.jpeg);
+}
+
+nav{
+    text-align: center;
+    background-color: rgb(117, 117, 117);
+    padding: 9px;
+}
+
+
+blockquote {
+    font-size: 60px;
+    font-family: 'DotGothic16', sans-serif;
+    color: white;
+    flex: 100%;
+    background: #ffa600;
+    border-left: 10px solid #4DB8BA;
+    margin: 1.5em 0;
+    padding: 10px;
+    quotes: "\201C""\201D""\2018""\2019";
+  }
