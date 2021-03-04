@@ -23,6 +23,8 @@ p{
 
 body{
     background-image: url(https://miro.medium.com/max/1200/1*-9K0f4TwYrd7zpwPeYIztg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 nav{

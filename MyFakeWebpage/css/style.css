@@ -1,0 +1,58 @@
+nav{
+    background-color: lightpink;
+    color: darkgray;
+    height: 30px;
+    display: block;
+    text-align: right;
+    padding: 5px;
+    padding-top: 10px;
+}
+
+.navButton{
+    width: 200px;
+    height: 30px;
+    border-radius: 1pt red;
+    display: inline-block;
+    text-align: center;
+    color: white;
+}
+
+.bodySection{
+    display: block;
+}
+
+.left{
+    background-color: tomato;
+    width: 20%;
+    float: left;
+    height: 755px;
+}
+
+.right{
+    width: 80%;
+    float: right;
+    background-color: teal;
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+.carousel{
+    display: inline-block;
+    text-align: center;
+}
+
+.card{
+    width: 215px;
+    background-color: lightblue;
+    margin-left: auto;
+    margin: 0 auto;
+    text-align: center;
+    padding: 35px;
+    display: inline-block;
+  }
