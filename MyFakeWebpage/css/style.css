@@ -11,10 +11,10 @@ nav{
 .navButton{
     width: 200px;
     height: 30px;
-    border-radius: 1pt red;
     display: inline-block;
     text-align: center;
     color: white;
+    border-radius: 5px red;
 }
 
 .bodySection{
@@ -26,6 +26,14 @@ nav{
     width: 20%;
     float: left;
     height: 400px;
+}
+
+.topleft{
+    background-color: violet;
+}
+
+.bottomleft{
+    background-color: thistle;
 }
 
 .right{
